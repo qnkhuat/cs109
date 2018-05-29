@@ -1,0 +1,28 @@
+Error executing Jupyter command 'note': [Errno 2] No such file or directory
+[I 14:48:55.831 NotebookApp] The port 8888 is already in use, trying another port.
+[I 14:48:55.854 NotebookApp] Serving notebooks from local directory: /Users/qnkhuat/Desktop/Dropbox/AI/cs109/2015/Lectures/Lecture4
+[I 14:48:55.854 NotebookApp] 0 active kernels
+[I 14:48:55.854 NotebookApp] The Jupyter Notebook is running at:
+[I 14:48:55.854 NotebookApp] http://localhost:8889/?token=f6d923a59e55dd11b16efe7b6129cfb6869fced49911563a
+[I 14:48:55.854 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 14:48:55.855 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=f6d923a59e55dd11b16efe7b6129cfb6869fced49911563a&token=f6d923a59e55dd11b16efe7b6129cfb6869fced49911563a
+[I 14:48:56.342 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 14:49:03.636 NotebookApp] Notebook PandasAndSQL.ipynb is not trusted
+[I 14:49:09.307 NotebookApp] Kernel started: 2dec9d66-9b1e-46bf-827c-04b47604428c
+[I 14:49:10.024 NotebookApp] Adapting to protocol v5.1 for kernel 2dec9d66-9b1e-46bf-827c-04b47604428c
+[I 14:51:09.902 NotebookApp] Saving file at /PandasAndSQL.ipynb
+[W 14:51:09.906 NotebookApp] Notebook PandasAndSQL.ipynb is not trusted
+[I 15:03:42.547 NotebookApp] Saving file at /PandasAndSQL.ipynb
+[W 15:03:42.552 NotebookApp] Notebook PandasAndSQL.ipynb is not trusted
+[I 15:05:42.522 NotebookApp] Saving file at /PandasAndSQL.ipynb
+[W 15:05:42.525 NotebookApp] Notebook PandasAndSQL.ipynb is not trusted
+[I 15:13:01.446 NotebookApp] Saving file at /PandasAndSQL.ipynb
+[W 15:13:01.449 NotebookApp] Notebook PandasAndSQL.ipynb is not trusted
+[I 16:19:52.235 NotebookApp] Starting buffering for 2dec9d66-9b1e-46bf-827c-04b47604428c:b8a3e4ed314b41f4a72a41c864081a98
+[C 17:53:45.933 NotebookApp] received signal 15, stopping
+[I 17:53:45.950 NotebookApp] Shutting down 1 kernel
+[I 17:53:46.699 NotebookApp] Kernel shutdown: 2dec9d66-9b1e-46bf-827c-04b47604428c

@@ -1,0 +1,30 @@
+[I 21:07:51.967 NotebookApp] The port 8888 is already in use, trying another port.
+[I 21:07:52.182 NotebookApp] Serving notebooks from local directory: /Users/qnkhuat/Desktop/2015
+[I 21:07:52.182 NotebookApp] 0 active kernels
+[I 21:07:52.182 NotebookApp] The Jupyter Notebook is running at:
+[I 21:07:52.183 NotebookApp] http://localhost:8889/?token=d5194f10b4fddc5754800af881d767cbbe60755efb5d9e00
+[I 21:07:52.183 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 21:07:52.199 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=d5194f10b4fddc5754800af881d767cbbe60755efb5d9e00&token=d5194f10b4fddc5754800af881d767cbbe60755efb5d9e00
+[I 21:07:52.908 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 21:07:58.363 NotebookApp] Notebook Lectures/02-DataScraping.ipynb is not trusted
+[I 21:07:58.763 NotebookApp] 302 GET /notebooks/Lectures/images/ipython.png (::1) 1.27ms
+[I 21:07:58.871 NotebookApp] 302 GET /notebooks/Lectures/images/grouplens.jpg (::1) 3.44ms
+[I 21:07:59.408 NotebookApp] 302 GET /notebooks/Lectures/images/cute_panda.jpg (::1) 1.09ms
+[I 21:07:59.645 NotebookApp] 302 GET /notebooks/Lectures/images/robots_txt.jpg (::1) 0.96ms
+[I 21:08:01.261 NotebookApp] 302 GET /notebooks/Lectures/images/wiz_oz.png (::1) 0.92ms
+[I 21:08:02.158 NotebookApp] Kernel started: 549e6b7e-f575-4733-814e-0038cbaf17d5
+[I 21:08:03.066 NotebookApp] Adapting to protocol v5.1 for kernel 549e6b7e-f575-4733-814e-0038cbaf17d5
+[I 21:10:02.255 NotebookApp] Saving file at /Lectures/02-DataScraping.ipynb
+[W 21:10:02.257 NotebookApp] Notebook Lectures/02-DataScraping.ipynb is not trusted
+[I 21:12:02.264 NotebookApp] Saving file at /Lectures/02-DataScraping.ipynb
+[W 21:12:02.267 NotebookApp] Notebook Lectures/02-DataScraping.ipynb is not trusted
+[I 21:16:05.016 NotebookApp] Saving file at /Lectures/02-DataScraping.ipynb
+[W 21:16:05.019 NotebookApp] Notebook Lectures/02-DataScraping.ipynb is not trusted
+[I 22:18:14.955 NotebookApp] Starting buffering for 549e6b7e-f575-4733-814e-0038cbaf17d5:14a81015a0c84de18a066800656c19b8
+[C 00:37:18.361 NotebookApp] received signal 15, stopping
+[I 00:37:18.369 NotebookApp] Shutting down 1 kernel
+[I 00:37:18.889 NotebookApp] Kernel shutdown: 549e6b7e-f575-4733-814e-0038cbaf17d5

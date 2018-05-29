@@ -1,0 +1,71 @@
+[I 22:56:14.180 NotebookApp] Serving notebooks from local directory: /Users/qnkhuat/Desktop/Dropbox/AI/cs109/hw
+[I 22:56:14.180 NotebookApp] 0 active kernels
+[I 22:56:14.180 NotebookApp] The Jupyter Notebook is running at:
+[I 22:56:14.180 NotebookApp] http://localhost:8888/?token=328a2253654f28b45ae07d45b5599e0cbbe347145c0374e7
+[I 22:56:14.180 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 22:56:14.181 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=328a2253654f28b45ae07d45b5599e0cbbe347145c0374e7&token=328a2253654f28b45ae07d45b5599e0cbbe347145c0374e7
+[I 22:56:17.525 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 22:56:32.275 NotebookApp] Notebook HW0.ipynb is not trusted
+[I 22:56:33.104 NotebookApp] Kernel started: c7012e29-7a5f-42a4-8222-adae85076244
+[I 22:56:33.788 NotebookApp] Adapting to protocol v5.1 for kernel c7012e29-7a5f-42a4-8222-adae85076244
+[I 22:58:33.080 NotebookApp] Saving file at /HW0.ipynb
+[I 23:00:33.099 NotebookApp] Saving file at /HW0.ipynb
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[W 23:00:55.190 NotebookApp] Unrecognized JSON config file version, assuming version 1
+[I 23:00:55.285 NotebookApp] Serving notebooks from local directory: /Users/qnkhuat/Desktop/Dropbox/AI/cs109/hw
+[I 23:00:55.286 NotebookApp] 0 active kernels 
+[I 23:00:55.286 NotebookApp] The IPython Notebook is running at: http://localhost:8888/
+[I 23:00:55.286 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 23:01:00.695 NotebookApp] Kernel started: dbad3a8d-7f2e-41c2-8048-f10faff3663d
+[W 23:01:02.642 NotebookApp] Notebook matplotlib_examples/geographic_plots.ipynb is not trusted
+[I 23:01:02.893 NotebookApp] Kernel started: 2368752c-46fb-4e7a-a5c6-98e4c4ac45e0
+[I 23:03:00.690 NotebookApp] Saving file at /HW0.ipynb
+[I 23:03:03.122 NotebookApp] Saving file at /matplotlib_examples/geographic_plots.ipynb
+[W 23:03:03.123 NotebookApp] Saving untrusted notebook matplotlib_examples/geographic_plots.ipynb
+nohup: juypter: No such file or directory
+[I 23:21:11.631 NotebookApp] Serving notebooks from local directory: /Users/qnkhuat/Desktop/Dropbox/AI/cs109/hw
+[I 23:21:11.632 NotebookApp] 0 active kernels
+[I 23:21:11.632 NotebookApp] The Jupyter Notebook is running at:
+[I 23:21:11.632 NotebookApp] http://localhost:8888/?token=e422dadfb8fb4bf0fa48a68418aa44010a55f15b383bf5f3
+[I 23:21:11.632 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 23:21:11.633 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=e422dadfb8fb4bf0fa48a68418aa44010a55f15b383bf5f3&token=e422dadfb8fb4bf0fa48a68418aa44010a55f15b383bf5f3
+[I 23:21:12.094 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 23:21:15.778 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180528232111 (::1) 13.41ms referer=http://localhost:8888/notebooks/HW0.ipynb
+[I 23:21:16.575 NotebookApp] Kernel started: 094396d0-78fb-4404-8042-c7b0d5dbd736
+[I 23:21:17.225 NotebookApp] Adapting to protocol v5.1 for kernel 094396d0-78fb-4404-8042-c7b0d5dbd736
+[I 23:21:17.832 NotebookApp] Starting buffering for 094396d0-78fb-4404-8042-c7b0d5dbd736:c11c4faa15354e9d82314e62635c48cb
+[I 23:21:18.148 NotebookApp] Kernel shutdown: 094396d0-78fb-4404-8042-c7b0d5dbd736
+[I 23:21:18.170 NotebookApp] Kernel started: 989f8a65-9d33-417f-bc07-423d47d3de95
+[I 23:21:18.651 NotebookApp] Adapting to protocol v5.1 for kernel 989f8a65-9d33-417f-bc07-423d47d3de95
+[I 23:23:16.561 NotebookApp] Saving file at /HW0.ipynb
+[I 23:24:28.175 NotebookApp] Saving file at /HW0.ipynb
+[I 23:25:16.560 NotebookApp] Saving file at /HW0.ipynb
+[I 23:27:24.172 NotebookApp] Saving file at /HW0.ipynb
+[I 23:29:24.175 NotebookApp] Saving file at /HW0.ipynb
+[I 23:31:24.173 NotebookApp] Saving file at /HW0.ipynb
+[I 23:33:24.177 NotebookApp] Saving file at /HW0.ipynb
+[I 23:35:24.183 NotebookApp] Saving file at /HW0.ipynb
+[I 23:37:24.184 NotebookApp] Saving file at /HW0.ipynb
+[I 23:46:04.223 NotebookApp] Starting buffering for 989f8a65-9d33-417f-bc07-423d47d3de95:c11c4faa15354e9d82314e62635c48cb
+[W 23:46:17.730 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180528232111 (::1) 10.08ms referer=http://localhost:8888/notebooks/HW0.ipynb
+[I 23:46:19.436 NotebookApp] Adapting to protocol v5.1 for kernel 989f8a65-9d33-417f-bc07-423d47d3de95
+[I 00:00:25.538 NotebookApp] Saving file at /HW0.ipynb
+[I 00:02:25.531 NotebookApp] Saving file at /HW0.ipynb
+[I 00:08:42.492 NotebookApp] Saving file at /HW0.ipynb
+[I 00:10:43.285 NotebookApp] Saving file at /HW0.ipynb
+[I 00:12:43.281 NotebookApp] Saving file at /HW0.ipynb
+[I 00:14:51.624 NotebookApp] Saving file at /HW0.ipynb
+[I 00:16:51.620 NotebookApp] Saving file at /HW0.ipynb
+[I 00:17:20.258 NotebookApp] Saving file at /HW0.ipynb
+[I 00:17:21.694 NotebookApp] Starting buffering for 989f8a65-9d33-417f-bc07-423d47d3de95:57e7c34fe7b5481db02d8982d9ea59f6
+[C 00:18:19.181 NotebookApp] received signal 15, stopping
+[I 00:18:19.185 NotebookApp] Shutting down 1 kernel
+[I 00:18:19.910 NotebookApp] Kernel shutdown: 989f8a65-9d33-417f-bc07-423d47d3de95
